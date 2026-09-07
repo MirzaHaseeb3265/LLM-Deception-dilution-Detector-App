@@ -1,6 +1,6 @@
 # 🛡️ Robust Deception Monitor for LLMs
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-2563EB?style=for-the-badge)](PASTE-YOUR-LIVE-APP-LINK-HERE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-2563EB?style=for-the-badge)]([PASTE-YOUR-LIVE-APP-LINK-HERE](https://llm-deception-dilution-detector.streamlit.app/))
 
 > Research prototype for detecting localized behavioral evidence of potential deception under deception dilution.
 
